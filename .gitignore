@@ -3,5 +3,8 @@ ai_env/
 __pycache__/
 *.pyc
 
-# YOLO model weights
-*.pt
+config.py
+alert.jpg
+
+# YOLO weights
+yolov8n.pt
